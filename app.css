@@ -1,0 +1,87 @@
+body {
+    background-color: #f5d9df;
+    font-family: "Nunito", sans-serif;
+    margin-top: 2%;
+  }
+  .image-cropper {
+    width: 290px;
+    height: 290px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 4%;
+    margin-bottom: 3%;
+  }
+  
+  img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+  }
+  #primary-nav {
+    font-size: 1.5rem;
+    font-weight: 200;
+  }
+  #primary-nav .navbar-brand {
+    color: #ea1c2c;
+    letter-spacing: 0.5rem;
+  }
+  
+  #primary-nav .nav-link {
+    color: white;
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+  }
+  #primary-nav .nav-link:hover {
+    color: #ea1c2c;
+  }
+  
+  #header-group span {
+    color: #ea1c2c;
+  }
+  
+  #header-group h2,
+  h2 {
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 200;
+  }
+  
+  .content {
+    margin-top: 100px;
+  }
+  
+  .scrolled-nav {
+    background-color: #dec0de;
+    transition: background-color 0.5s;
+  }
+  h2 {
+    color: #ea1c2c;
+  }
+  
+  p {
+    color: #f498b8;
+    font-weight: 200;
+    letter-spacing: 0.1rem;
+    line-height: 2;
+  }
+  
+  @media (max-width: 1200px) {
+    #header-group h2 {
+      font-size: 2.2em;
+    }
+  }
+
+  #line{
+    color: #f498b8;
+    font-weight: 200;
+    letter-spacing: 0.1rem;
+    line-height: 2;
+    text-align: center;
+  color: #e3b3b3;
+
+font-size: 60px}
+  
+  
